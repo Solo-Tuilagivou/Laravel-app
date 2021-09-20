@@ -14,8 +14,8 @@ yarn-error.log
 /.idea
 /.vscode
 /bootstrap
-/composer.json
-/composer.lock
-/phpunit.xml
-/server.php
-/.env.example
+composer.json
+composer.lock
+phpunit.xml
+server.php
+.env.example
