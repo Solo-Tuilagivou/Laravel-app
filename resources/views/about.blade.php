@@ -9,7 +9,7 @@
                 I'm Solo. I am an aspiring web developer.
             </p>
             <div class="text-center mt-5">
-                <a href="{{route('home')}}" class="inline-lock bg-pink-500 text-center py-2 px-4 rounded hover:bg-purple-500 transition ease-linear duration-300">Back Home..</a>
+                <a href="{{route('home')}}" class="inline-lock bg-red-700 hover:bg-pink-500 text-center py-2 px-4 rounded hover:bg-purple-500 transition ease-linear duration-300">Back Home..</a>
             </div>
         </div>
     </section>
